@@ -1,4 +1,4 @@
-### Hi there, I'm Lukas - aka [jetski67890]
+### Hi there, I'm Lukas - aka jetski67890
 
 <br/>
 
