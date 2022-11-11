@@ -74,9 +74,10 @@ TODO: add light / dark version for Rust
   <!--
   [![jetskis's GitHub Stats's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jetski67890&show_icons=true&hide_border=false&title_color=ff6d4a&icon_color=ffd012&bg_color=323c47&text_color=f4f7f9&border_color=f4f7f9#gh-dark-mode-only)](https://github.com/jetski67890/jetski67890#gh-dark-mode-only)
   [![jetskis's GitHub Stats's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=jetski67890&show_icons=true&hide_border=false&title_color=ff6d4a&icon_color=ffd012&bg_color=f4f7f9&text_color=323c47&border_color=f4f7f9#gh-light-mode-only)](https://github.com/jetski67890/jetski67890#gh-light-mode-only)
-  -->
+  
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  -->
 </details>
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
