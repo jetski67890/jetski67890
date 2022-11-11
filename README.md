@@ -30,9 +30,13 @@ TODO: add light / dark version for markdown
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Github" width="26px" src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />" style="padding-right:10px;" />
+<!--
+TODO: add light / dark version for github
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com/jetski67890/#gh-dark-mode-only)
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://github.com/jetski67890/#gh-light-mode-only)
-[<img align="left" alt="Gitlab" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" style="padding-right:10px;" />](https://gitlab.com/jetski67890)
+-->
+<img align="left" alt="Gitlab" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Adobexd" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" style="padding-right:10px;" />
@@ -60,7 +64,10 @@ TODO: add light / dark version for Rust
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
   <img alt="jetskis's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jetski67890&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&title_color=ff6d4a&icon_color=ffd012&bg_color=323c47&text_color=f4f7f9&border_color=f4f7f" height="192px"/>
+   <!--
+  TODO: add top languages graph
   <img alt="jetskis's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jetski67890&langs_count=8&layout=compact&theme=react&hide_border=false&title_color=ff6d4a&icon_color=ffd012&bg_color=323c47&text_color=f4f7f9&border_color=f4f7f&hide=Jupyter%20Notebook" height="192px"/>
+  -->
   <!--
   TODO: add github light / dark mode for graphs
   -->
