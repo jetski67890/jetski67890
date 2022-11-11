@@ -1,6 +1,6 @@
 # Hi there, I'm Lukas - aka jetski67890 👋
 
-## I'm a Developer with love fory anything Tech.
+## I'm a Developer with love for anything Tech.
 
 - 🔭 currently working on moving all of my repositories and building my portfolio website
 - 🎯 2022/23 goal: first contribution to open source
