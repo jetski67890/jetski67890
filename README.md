@@ -82,7 +82,7 @@ TODO: add light / dark version for Rust
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
-  <img alt="jetskis's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jetski67890&theme=react&bg_color=323c47&title_color=ff6d4a&color=f4f7f9&line=ff6d4a&point=ffd012&border_color=f4f7f9&hide_border=false" />
+  <img alt="jetskis's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=jetski67890&theme=react&bg_color=323c47&title_color=ff6d4a&color=f4f7f9&line=ff6d4a&point=ffd012&border_color=f4f7f9&hide_border=false" />
   <br/>
 <!--
 TODO: add github workflow from https://github.com/jamesgeorge007/github-activity-readme
