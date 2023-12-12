@@ -3,7 +3,7 @@
 ## I'm a Developer with love for anything Tech.
 
 - 🔭 currently working on moving all of my repositories and building my portfolio website
-- 🎯 2023 goal: first contribution to open source
+- 🎯 2024 goal: first contribution to open source
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white.svg)](https://linkedin.com/in/ackermann-lukas)
